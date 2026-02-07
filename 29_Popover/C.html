@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../bootstrap-5.3.8-dist/css/bootstrap.min.css">
+    <!-- <script src="../bootstrap-5.3.8-dist/js/bootstrap.bundle.min.js"  ></script>
+    -->
+</head>
+<body>
+
+  <button type="button" class="btn btn-lg btn-primary m-4  align-center"
+   data-bs-toggle="popover" 
+   data-bs-container="body"
+  
+   data-bs-placement="start" 
+   data-bs-content="web development is to development of any website static or dynamic">
+   Web Development start
+     </button>
+
+     <button type="button" class="btn btn-lg btn-primary m-4  align-center"
+   data-bs-toggle="popover" 
+   data-bs-container="body"
+  
+   data-bs-placement="end" 
+   data-bs-content="web development is to development of any website static or dynamic">
+   Web Development  end
+     </button>
+
+     <button type="button" class="btn btn-lg btn-primary m-4  align-center"
+   data-bs-toggle="popover" 
+   data-bs-container="body"
+  
+   data-bs-placement="top" 
+   data-bs-content="web development is to development of any website static or dynamic">
+   Web Development  Top
+     </button>
+
+     <button type="button" class="btn btn-lg btn-primary m-4  align-center"
+   data-bs-toggle="popover" 
+   data-bs-container="body"
+  
+   data-bs-placement="bottom" 
+   data-bs-content="web development is to development of any website static or dynamic">
+   Web Development  Bottom
+     </button>
+
+<script src="../bootstrap-5.3.8-dist/js/bootstrap.bundle.min.js" ></script>
+    <script>
+      const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+</script>
+</body>
+</html>
