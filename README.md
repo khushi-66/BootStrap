@@ -1,12 +1,12 @@
-# Bootstrap Practice Repository 🎨
+# Bootstrap Practice
 
-This repository contains my **Bootstrap practice projects and UI experiments** while learning responsive web design and modern frontend layout techniques.
+This repository contains my **Bootstrap practice projects and UI component implementations** while learning responsive web design.
 
-The goal of this repository is to practice **Bootstrap components, grid system, and responsive layouts**.
+The purpose of this repository is to practice **Bootstrap layout system, components, and responsive design techniques**.
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Tech Stack
 
 * HTML5
 * CSS3
@@ -14,33 +14,35 @@ The goal of this repository is to practice **Bootstrap components, grid system, 
 
 ---
 
-## 📚 Bootstrap Concepts Practiced
+## 📚 Concepts Practiced
 
-This repository includes practice implementations of:
+The following Bootstrap concepts are practiced in this repository:
 
 * Bootstrap Grid System
 * Responsive Layout
-* Bootstrap Navbar
+* Navbar
 * Cards
 * Buttons
-* ProgressBar
+* Postitions
+* Icons
 * Forms
 * Alerts
 * Modals
 * Utility Classes
-* Responsive Design
 
 ---
 
-## 🧩 Practice Projects
+## 🧩 Practice Examples
 
-| Project         | Description                             |
-| --------------- | --------------------------------------- |
-| Landing Page UI | Responsive landing page using Bootstrap |
-| Navbar Design   | Bootstrap responsive navigation bar     |
-| Card Layout     | Bootstrap card components practice      |
-| Form Design     | Bootstrap styled form                   |
-| Grid Layout     | Bootstrap grid system practice          |
+This repository includes multiple UI practice examples such as:
+
+* Responsive Navbar
+* Card Layouts
+* Bootstrap Forms
+* Grid System Layout
+* Buttons and Components
+
+These examples help in understanding how Bootstrap components work in real projects.
 
 ---
 
@@ -56,20 +58,24 @@ git clone https://github.com/khushi-66/BootStrap.git
 
 ---
 
-## 🎯 Purpose of this Repository
+## 🎯 Purpose
 
 * Practice Bootstrap components
-* Learn responsive web design
-* Improve frontend UI development skills
-* Understand Bootstrap layout system
+* Learn responsive UI development
+* Improve frontend layout skills
 
 ---
 
 ## 👩‍💻 Author
 
-**Khushi**
+Khushi
+Aspiring Full Stack Java Developer
 
-Aspiring **Full Stack Java Developer**
+GitHub:
+https://github.com/khushi-66
+
+
+
 
 GitHub:
 https://github.com/khushi-66
